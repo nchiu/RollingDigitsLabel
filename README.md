@@ -1,6 +1,7 @@
 # RollingDigitsLabel
 
 A simple label that animates a number with each digit falling into place.
+
 ![Various example labels](/Images/overview.gif)
 
 ## Installation
