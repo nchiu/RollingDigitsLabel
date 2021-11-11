@@ -1,7 +1,7 @@
 # RollingDigitsLabel
 
 A simple label that animates a number with each digit falling into place.
-![Various example labels](/images/overview.gif)
+![Various example labels](/Images/overview.gif)
 
 ## Installation
 
@@ -23,7 +23,7 @@ let animatedLabel = RollingDigitsLabel(frame: .zero)
 ### In Interface Builder
 
 Drag a new view on to the canvas and set its class and module in the Identity inspector.
-![Interface Builder configuration](/images/ibCustomClass.png)
+![Interface Builder configuration](/Images/ibCustomClass.png)
 
 ## Configuration
 
@@ -91,4 +91,4 @@ class ViewController: UIViewController {
     }
 }
 ```
-![Example code running](/images/example.gif)
+![Example code running](/Images/example.gif)
