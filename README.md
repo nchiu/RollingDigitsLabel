@@ -59,7 +59,7 @@ Set the number value of the label
 ```swift
 animatedLabel.setNumber(newValue, animated: true, completion: { print("animation complete") })
 ```
-`newValue` can be a `Double`, `Int`, `Float`, or `NSNumber`. Animated determined 
+`newValue` can be a `Double`, `Int`, `Float`, or `NSNumber`.
 
 ### Adjusting the animation timing
 
