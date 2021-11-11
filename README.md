@@ -23,7 +23,7 @@ let animatedLabel = RollingDigitsLabel(frame: .zero)
 
 ### In Interface Builder
 
-Drag a new view on to the canvas and set its class and module in the Identity inspector.
+Drag a new UIView on to the canvas and set its class and module in the Identity inspector.
 ![Interface Builder configuration](/Images/ibCustomClass.png)
 
 ## Configuration
